@@ -1,0 +1,12 @@
+com\engeto\model\Student.class
+com\engeto\model\Teacher.class
+com\engeto\controller\StudentsController.class
+com\engeto\Main.class
+com\engeto\repository\StudentRepository.class
+com\engeto\controller\TeachersController.class
+com\engeto\service\JavaScriptFrameworkService.class
+com\engeto\config\ProdConfig.class
+com\engeto\config\DevConfiguration.class
+com\engeto\controller\JavaScriptFrameworkController.class
+com\engeto\service\StudentService.class
+com\engeto\data\JavaScriptFramework.class
